@@ -202,7 +202,7 @@ class BrightnessFilter : Filter, LinearAdjustableFilter {
     let min: Double = 0.0
     let max: Double = 1.0
     let defaultValue: Double = 0.75
-    // 4.0 und 1.5
+    // 4.0 und 1.5 laufen auf Fehler
     
     init() {
         self.value  = self.defaultValue
