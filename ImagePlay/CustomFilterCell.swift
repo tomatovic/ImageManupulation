@@ -2,7 +2,7 @@
 //  CustomFilterCell.swift
 //  ImagePlay
 //
-//  Created by Robert Patterson on 2016-03-31.
+//  Created by Thomas Hirth on 2016-03-31.
 //  Copyright © 2016 robbo. All rights reserved.
 //
 

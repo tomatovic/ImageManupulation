@@ -2,7 +2,7 @@
 //  HLSPixel.swift
 //  ImagePlay
 //
-//  Created by Robert Patterson on 2016-04-05.
+//  Created by Thomas Hirth on 2016-04-05.
 //  Copyright © 2016 robbo. All rights reserved.
 //
 

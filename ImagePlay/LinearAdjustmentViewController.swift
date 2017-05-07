@@ -2,7 +2,7 @@
 //  LinearAdjustmentViewController.swift
 //  ImagePlay
 //
-//  Created by Robert Patterson on 2016-04-03.
+//  Created by Thomas Hirth on 2016-04-03.
 //  Copyright © 2016 robbo. All rights reserved.
 //
 
