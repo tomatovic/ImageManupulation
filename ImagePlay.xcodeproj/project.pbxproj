@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		07A484AA1EBE1CC3001FFA3F /* becklehead.png in Resources */ = {isa = PBXBuildFile; fileRef = 07A484A91EBE1CC3001FFA3F /* becklehead.png */; };
-		07A484AC1EBE1D80001FFA3F /* becklehead.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 07A484AB1EBE1D80001FFA3F /* becklehead.jpg */; };
+		07A88E531EBFB5E900857AC2 /* becklehead.png in Resources */ = {isa = PBXBuildFile; fileRef = 07A88E521EBFB5E900857AC2 /* becklehead.png */; };
+		07A88E551EBFB5F000857AC2 /* becklehead.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 07A88E541EBFB5F000857AC2 /* becklehead.jpg */; };
 		D42A483C1C961A1100C17394 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42A483B1C961A1100C17394 /* AppDelegate.swift */; };
 		D42A483E1C961A1100C17394 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42A483D1C961A1100C17394 /* ViewController.swift */; };
 		D42A48411C961A1100C17394 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D42A483F1C961A1100C17394 /* Main.storyboard */; };
@@ -29,8 +29,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		07A484A91EBE1CC3001FFA3F /* becklehead.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = becklehead.png; sourceTree = "<group>"; };
-		07A484AB1EBE1D80001FFA3F /* becklehead.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = becklehead.jpg; sourceTree = "<group>"; };
+		07A88E521EBFB5E900857AC2 /* becklehead.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = becklehead.png; sourceTree = "<group>"; };
+		07A88E541EBFB5F000857AC2 /* becklehead.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = becklehead.jpg; sourceTree = "<group>"; };
 		D42A48381C961A1100C17394 /* ImagePlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImagePlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D42A483B1C961A1100C17394 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D42A483D1C961A1100C17394 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,9 +83,9 @@
 			isa = PBXGroup;
 			children = (
 				D42A483B1C961A1100C17394 /* AppDelegate.swift */,
+				07A88E521EBFB5E900857AC2 /* becklehead.png */,
+				07A88E541EBFB5F000857AC2 /* becklehead.jpg */,
 				D42A483D1C961A1100C17394 /* ViewController.swift */,
-				07A484AB1EBE1D80001FFA3F /* becklehead.jpg */,
-				07A484A91EBE1CC3001FFA3F /* becklehead.png */,
 				D42A483F1C961A1100C17394 /* Main.storyboard */,
 				D42A48421C961A1100C17394 /* Assets.xcassets */,
 				D42A48471C961A1100C17394 /* Info.plist */,
@@ -167,10 +167,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D42A48461C961A1100C17394 /* LaunchScreen.storyboard in Resources */,
-				07A484AA1EBE1CC3001FFA3F /* becklehead.png in Resources */,
+				07A88E531EBFB5E900857AC2 /* becklehead.png in Resources */,
 				D42A48431C961A1100C17394 /* Assets.xcassets in Resources */,
 				D42A48411C961A1100C17394 /* Main.storyboard in Resources */,
-				07A484AC1EBE1D80001FFA3F /* becklehead.jpg in Resources */,
+				07A88E551EBFB5F000857AC2 /* becklehead.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +258,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -299,7 +299,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
